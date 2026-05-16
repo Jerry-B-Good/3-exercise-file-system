@@ -1,3 +1,11 @@
+# Deliverables
+
+For this week, we're going to create a console application that demonstrates much of what we have learned since the beginning of the course along with the new material you learned this week. To do this, you will create a C# console application that does the following:
+
++ Consumes a JSON file that contains at least one array of object values.
++ Iterates over that array of objects and displays the contents of those objects.
+
+As always, feel free to get creative. Don't forget to create a Git repository and push your work to GitHub.
 
 # Contributing
 
