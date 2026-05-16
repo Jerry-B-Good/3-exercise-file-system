@@ -27,3 +27,5 @@ IEnumerable<string> FindFiles(string folderName)
 
     return salesFiles;
 }
+
+// Compare outputs with the original repo forked from
